@@ -73,7 +73,7 @@ pip3 install -r requirements.txt
 3. Deploy the cdk template
 
 ```
-cdk bootstrap (cdk bootstrap aws://094128535270/us-east-1)
+cdk bootstrap (cdk bootstrap aws://<AWS Account>/us-east-1)
 cdk deploy
 ```
 
