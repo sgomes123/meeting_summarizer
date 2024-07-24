@@ -1,4 +1,4 @@
-# deploy-streamlit-app
+# meeting-summarizer-app
 
 This app can be used as a starting point to easily create and deploy a GenAI demo, with web interface and user authentication. It is written in python only, with cdk template to deploy on AWS.
 
